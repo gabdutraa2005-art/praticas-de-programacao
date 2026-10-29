@@ -1,0 +1,92 @@
+Minha ideia aqui e colocar praticas de py, desde de esqueleto, tasks e etc..
+
+Provocações do Akita, qualquer tipo de tecnologias, sempre estudar praticando, pega repo do Git e fica conpiando linhas de codigo para ter memoria muscular.
+
+Começar com Python, JS e TS.
+ 
+ print- escreva
+ input-leia
+ output-
+ string- Varial ou Objeto
+ int-
+=- recebe
+
+sempre que for numero inteiro, tratamos como "" seja normal ou unica, ce for uma + dentro dos paranteses vai realizar a soma, se for um soma dentro do parenteses vai ser um numero ao lado do outro.
+
+Tipos primitimos:
+int=inteiro-7 -4
+floot=real-4.5
+bool=boleanos-True or False
+str=Objeto-"Ola" "7.5" ''
+
+Todos obejto tem um a.is, lembrando da aula 06 
+
+Operações aritmeticas-
+5=*2== 10 Multiplicação
+5=/2==2.5 Divisão
+5=**2== 25-Potencia
+5=//2== 2  -Divisão Inteira= vai ser sem usar virgula na hora da Divisão.
+5=%2- 1 Resto da Divisão Inteira
+
+Ordem de procendencia (Igual na matetica ordens de realizar a conta)
+1-()
+2-**
+3-* / // %
+4-+ -
+ex:
+5+3*2==11
+3*5+4**2==31
+3*(5+4)**2==243
+
+end=' ' vai fazer com que não quebra a linha
+{:.2f}= sempre usamos para formatar a linha, se for mas casa decimais ao lado usar mas numeros.
+
+MODULO/PACOTES
+Import- seria para chamar pacotes para o programa
+Biblioteca math- fx de matematica
+ceil= arredonda para cima
+floor- arrendondamente para baixo
+trunc- trunca um numero
+pow- Potencia
+sqrt- rai quadrada
+factorial- numero factorial
+
+
+Como usar caracteres
+oque é uma cadeia de caracteres(string)? Uma frase
+
+FATIAMENTO-sempre o ultimo valor é ignorado
+Frase{9:13}- vai ate o 12, pois sempre diminui um no final
+frase{9:2:2}- vai pular de dois em dois
+Frase{:3}vai pular ate o numero dejado
+Frase{3:}- vai ate o final
+Frase{9::3}-Vai pular em tres ate o 9 começando
+
+analise
+len-comprimento
+len(frase)
+frase.count("o",0,13)
+contar quantas vezes tem a palavra no ""
+frase.find("deo")
+find-encontrar
+
+transformação
+frase.replace("Python","Android")
+frase.upper()
+upper-para cima maisculo
+frase.lower()
+lower- mantem para minusculo
+frase.capitalize()
+capitalize- vai jogar para minusculo e a primeira letra para maisculo
+frase.tittle()
+tittle-ele vai analisar as palavras e deixar as priumeiro em maisculo
+frase.strip()
+strip- vai remover espaço inuteis da string
+frase.rstrip()
+rstrip- direita dos espaços
+lstrip- esquerda dos espaços
+
+
+divisao
+frase.split()
+split-ele é feito em espaços na string
