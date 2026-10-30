@@ -24,6 +24,8 @@ Meus estudos de programação, do zero.
 - [ ] TypeScript: JS com tipos
 - [ ] React + Vite: telas em componentes
 - [ ] SQL e PostgreSQL: banco de dados (posso começar a qualquer momento)
+- [ ] Frame works como Angular, Kafta e Java sprint boot
+
 
 **3. Depois**
 - [ ] Mundo 3 de Python
@@ -56,6 +58,19 @@ git push
 ```
 
 Nada sobe sozinho: só vai para o GitHub o que passou por esses comandos.
+
+**Renomear o último commit** (antes do `push`):
+
+```bash
+git commit --amend -m "nova mensagem"
+```
+
+Commit que já foi para o GitHub: não renomear, só acertar nos próximos.
+
+**Boas mensagens** começam com um verbo e dizem o que foi feito:
+
+- ✅ `Adiciona exercícios da aula 09`
+- ❌ `teste`, `ajustes`
 
 ## Materiais
 
