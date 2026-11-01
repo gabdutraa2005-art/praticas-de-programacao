@@ -78,3 +78,8 @@ Commit que já foi para o GitHub: não renomear, só acertar nos próximos.
 - [CS50](https://cs50.harvard.edu/x/)
 - [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+
+
+git clone https://github.com/gabdutraa2005-art/NOME-DO-REPO.git
+cd NOME-DO-REPO
+PARA PUXAR REPO DO GIT
