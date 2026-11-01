@@ -85,7 +85,7 @@ strip- vai remover espaço inuteis da string
 frase.rstrip()
 rstrip- direita dos espaços
 lstrip- esquerda dos espaços
-
+find- encontrar dentro da str
 
 divisao
 frase.split()

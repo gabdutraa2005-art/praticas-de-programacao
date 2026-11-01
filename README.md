@@ -83,3 +83,6 @@ Commit que já foi para o GitHub: não renomear, só acertar nos próximos.
 git clone https://github.com/gabdutraa2005-art/NOME-DO-REPO.git
 cd NOME-DO-REPO
 PARA PUXAR REPO DO GIT
+
+>>> ou ...: você está no Python, que aceita código, mas não comandos como git ou cd.
+$: você está no terminal normal.
