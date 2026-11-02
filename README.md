@@ -86,3 +86,11 @@ PARA PUXAR REPO DO GIT
 
 >>> ou ...: você está no Python, que aceita código, mas não comandos como git ou cd.
 $: você está no terminal normal.
+
+git status
+git pull origin main
+ # Esse comando serve para puxar direto do git as atualizações
+
+git add .
+git commit -m "sua mensagem"
+git pull origin main
