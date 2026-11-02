@@ -96,3 +96,34 @@ no python sempre lembrar de colocar os : no final da codição
 if- se
 else- senão
 todo comando que estiver grududado na tela ele vai aparecer na tela, ce não estiver, pode aparecer.
+
+and (e): as duas coisas precisam acontecer
+
+A mamãe diz: "Você ganha sorvete se comer tudo e escovar os dentes".
+
+Comeu e escovou: ganha.
+Comeu, mas não escovou: não ganha.
+Escovou, mas não comeu: não ganha.
+or (ou): basta uma coisa acontecer
+
+A mamãe diz: "Você ganha sorvete se comer tudo ou arrumar os brinquedos".
+
+Fez as duas: ganha.
+Fez só uma: ganha.
+Não fez nenhuma: não ganha.
+!= (diferente): tem que ser outra coisa
+
+A mamãe diz: "Pode pegar qualquer sabor, menos o de limão". Ou seja, o sabor precisa ser diferente de limão.
+
+Chocolate: pode.
+Morango: pode.
+Limão: não pode.
+E os parênteses?
+
+Eles funcionam como uma caixinha: o Python resolve primeiro o que está dentro dela.
+
+No seu if, a primeira caixinha pergunta: "divide por 4 e não termina em 00?". Depois vem o or, que dá uma segunda chance: "ou divide por 400?".
+
+
+
+cores no terminal com python

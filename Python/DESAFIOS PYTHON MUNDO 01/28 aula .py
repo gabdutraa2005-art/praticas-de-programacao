@@ -11,3 +11,7 @@ if certo == n <=4:
     print('Você acertou')
 else:
     print('Você errou')
+
+
+    ## o guanabara usou o radiant como modulo da biblioteca
+    # == vai ser como resultado
