@@ -91,4 +91,8 @@ divisao
 frase.split()
 split-ele é feito em espaços na string
 
-Condições
+Condições Simples e compostas
+no python sempre lembrar de colocar os : no final da codição
+if- se
+else- senão
+todo comando que estiver grududado na tela ele vai aparecer na tela, ce não estiver, pode aparecer.
