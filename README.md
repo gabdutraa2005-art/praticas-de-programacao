@@ -13,22 +13,33 @@ Meus estudos de programação, do zero.
 
 ## Plano de estudos
 
+Ordem pensada para, no fim, conseguir ler o hub de ponta a ponta.
+
 **1. Python (agora)**
 - [ ] Mundo 1: fundamentos
 - [ ] Mundo 2: `if`, `for`, `while`
 
-**2. Web (para o hub)**
+**2. Python, parte 2**
+- [ ] Mundo 3: listas, dicionários, funções, módulos e exceções
+- [ ] Expressões regulares (`re`) e testes com `unittest`
+
+**3. HTML e CSS (primeiros projetos)**
 - [ ] HTML: estrutura da página
 - [ ] CSS: visual
-- [ ] JavaScript: comportamento
+
+**4. Banco de dados**
+- [ ] SQL e PostgreSQL: `SELECT`, `WHERE`, `JOIN`, `GROUP BY`
+
+**5. Web (para o hub)**
+- [ ] JavaScript: comportamento, JSON e `async`/`await`
+- [ ] HTTP e APIs: `GET`, `POST` e códigos de resposta
+- [ ] Node e npm
 - [ ] TypeScript: JS com tipos
-- [ ] React + Vite: telas em componentes
-- [ ] SQL e PostgreSQL: banco de dados (posso começar a qualquer momento)
-- [ ] Frame works como Angular, Kafta e Java sprint boot
+- [ ] Zod: conferir o formato dos dados
+- [ ] React + Vite + Tailwind: telas em componentes
 
-
-**3. Depois**
-- [ ] Mundo 3 de Python
+**6. Depois**
+- [ ] Testes automatizados e Docker
 - [ ] Desafios da pasta `Python/Desafios/`
 - [ ] CS50 (Harvard)
 
