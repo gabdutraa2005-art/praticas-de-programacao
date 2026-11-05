@@ -10,6 +10,13 @@ x8 = numero * 8
 x9 = numero * 9
 x10 = numero * 10
 print("a tabuada do seu item:")
-print (x1,x2,x3,x4,x5,x6,x7,x8,x9,x10)
-
-
+print (x1  end="")
+print (x2  end="") 
+print (x3  end="") 
+print (x4  end="") 
+print (x5  end="") 
+print (x6  end="") 
+print (x7  end="") 
+print (x8  end="") 
+print (x9  end="") 
+print (x10  end="") 
