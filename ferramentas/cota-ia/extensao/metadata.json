@@ -1,0 +1,6 @@
+{
+  "uuid": "claude-cota@aventurar",
+  "name": "Cota de IA",
+  "description": "Uso das janelas de 5h e da semana do Claude e do Codex, na barra de cima.",
+  "shell-version": ["50"]
+}

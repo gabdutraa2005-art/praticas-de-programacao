@@ -1,0 +1,6 @@
+{
+  "uuid": "commits-github@aventurar",
+  "name": "Commits do GitHub",
+  "description": "Commits de hoje, dias seguidos e últimos commits do GitHub, na barra de cima.",
+  "shell-version": ["50"]
+}
