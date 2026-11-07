@@ -2,9 +2,7 @@
 ## se o valor por impar desconsidere
 soma = 0
 for c in range(1, 7):
-    soma = soma + n
     n = int(input('Qual numero você quer?'))
-    lista = [n]
     if n % 2 == 0:
-        print('O soma das sua sequencia de: {}'.format(lista))
-        print('{}'.format())
+        soma = soma + n
+print('A soma foi de {}'.format(soma))
