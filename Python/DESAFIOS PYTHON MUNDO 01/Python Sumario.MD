@@ -125,9 +125,16 @@ Eles funcionam como uma caixinha: o Python resolve primeiro o que está dentro d
 No seu if, a primeira caixinha pergunta: "divide por 4 e não termina em 00?". Depois vem o or, que dá uma segunda chance: "ou divide por 400?".
 
 IF é usado somente uma vez, elif pode ser usado varias vezes e depois vem o else.
+elif- else + if= senãose
+sempre vai ter um if e depois pode ter um elif
 
 cores no terminal com python
 NÃO TERMINEI A AULA, SERIA A AULA 11
+padrão ANSI- escape sequence
+sempre que querer apresentar uma cor ao python \033[style 0; text 33; back44m]
+style - 0,1,4 e 7
+text-
+back-
 
 AULA 13-
 Estrutura de repetição for
@@ -144,3 +151,6 @@ for c in range(0.3)
     pula
 passo
 pega
+
+while
+quanto não sabemos o limite dejejado pelo output
